@@ -115,7 +115,7 @@ namespace WindowsFormsApp1
             this.lblAppTitle.Name = "lblAppTitle";
             this.lblAppTitle.Size = new System.Drawing.Size(194, 25);
             this.lblAppTitle.TabIndex = 0;
-            this.lblAppTitle.Text = "PetData Explorer 2.0";
+            this.lblAppTitle.Text = "Учет животных";
 
             // PetDataForm
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -130,7 +130,7 @@ namespace WindowsFormsApp1
             this.MinimumSize = new System.Drawing.Size(800, 539);
             this.Name = "PetDataForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "PetData Explorer";
+            this.Text = "Приложение";
             ((System.ComponentModel.ISupportInitialize)(this.petDataView)).EndInit();
             this.panelHeader.ResumeLayout(false);
             this.panelHeader.PerformLayout();
