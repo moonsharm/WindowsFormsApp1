@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Pets>
+  <Pet>
+    <Name>Барсик</Name>
+    <Type>Кот</Type>
+    <Age>3</Age>
+    <Features>Любит спать</Features>
+  </Pet>
+  <Pet>
+    <Name>Рекс</Name>
+    <Type>Собака</Type>
+    <Age>5</Age>
+    <Features>Охраняет дом</Features>
+  </Pet>
+  <Pet>
+    <Name>Кеша</Name>
+    <Type>Попугай</Type>
+    <Age>2</Age>
+    <Features>Разговаривает</Features>
+  </Pet>
+</Pets>
